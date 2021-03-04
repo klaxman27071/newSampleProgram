@@ -16,14 +16,14 @@ public class mainClass {
 				df.div();
 				df.div12();
 
-
-
 				System.out.println("New square function added  3.1 mnt");
 				SquareFunction ssf=new SquareFunction();
 				ssf.SquareofNum();
 
 				CubeDemo cd=new CubeDemo();
 				cd.cube();
+				SquareAreaFunction asf=new SquareAreaFunction();
+				asf.SquareArea();
 	}
 
 }
