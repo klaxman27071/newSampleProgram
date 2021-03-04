@@ -13,6 +13,8 @@ public class mainClass {
 				DivisionDemo df=new DivisionDemo();
 				df.div();
 				df.div12();
+				CubeDemo cd=new CubeDemo();
+				cd.cube();
 	}
 
 }
