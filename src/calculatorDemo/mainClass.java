@@ -15,12 +15,15 @@ public class mainClass {
 				DivisionDemo df=new DivisionDemo();
 				df.div();
 				df.div12();
-<<<<<<< HEAD
+
+				System.out.println("New square function added  3.1 mnt");
+				SquareFunction ssf=new SquareFunction();
+				ssf.SquareofNum();
+
 				CubeDemo cd=new CubeDemo();
 				cd.cube();
-=======
-
->>>>>>> 5454276d90528d484b610859157376989cd69597
+				SquareAreaFunction asf=new SquareAreaFunction();
+				asf.SquareArea();
 	}
 
 }
