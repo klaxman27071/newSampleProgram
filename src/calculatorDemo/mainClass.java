@@ -13,6 +13,9 @@ public class mainClass {
 				DivisionDemo df=new DivisionDemo();
 				df.div();
 				df.div12();
+				System.out.println("New square function added  3.1 mnt");
+				SquareFunction ssf=new SquareFunction();
+				ssf.SquareofNum();
 	}
 
 }
