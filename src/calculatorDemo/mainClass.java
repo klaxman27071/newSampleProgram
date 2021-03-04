@@ -10,6 +10,8 @@ public class mainClass {
 				sf.subst();
 				Mulf mf=new Mulf();
 				mf.mul();
+				DivisionDemo df=new DivisionDemo();
+				df.div();
 	}
 
 }
