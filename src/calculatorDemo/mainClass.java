@@ -8,6 +8,8 @@ public class mainClass {
 		af.add();
 		SubstractionFunction sf=new SubstractionFunction();
 				sf.subst();
+				Mulf mf=new Mulf();
+				mf.mul();
 	}
 
 }
