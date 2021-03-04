@@ -12,6 +12,7 @@ public class mainClass {
 				mf.mul();
 				DivisionDemo df=new DivisionDemo();
 				df.div();
+				df.div12();
 	}
 
 }
