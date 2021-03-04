@@ -10,9 +10,17 @@ public class mainClass {
 				sf.subst();
 				Mulf mf=new Mulf();
 				mf.mul();
+
+				sf.subOfThreeNum();
 				DivisionDemo df=new DivisionDemo();
 				df.div();
 				df.div12();
+<<<<<<< HEAD
+				CubeDemo cd=new CubeDemo();
+				cd.cube();
+=======
+
+>>>>>>> 5454276d90528d484b610859157376989cd69597
 	}
 
 }
