@@ -10,6 +10,7 @@ public class mainClass {
 				sf.subst();
 				Mulf mf=new Mulf();
 				mf.mul();
+				sf.subOfThreeNum();
 	}
 
 }
