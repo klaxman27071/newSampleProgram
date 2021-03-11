@@ -24,6 +24,8 @@ public class mainClass {
 				cd.cube();
 				SquareAreaFunction asf=new SquareAreaFunction();
 				asf.SquareArea();
+				AreaOfRectangle ra=new AreaOfRectangle();
+				ra.RectangleArea();
 	}
 
 }
